@@ -1,5 +1,5 @@
 name: FLAME GPU 2 Bug report
-about: Report a problem with flamegpu2
+description: Report a problem with flamegpu2
 title: "[Bug]: "
 labels: ["triage required"]
 assignees: ''
